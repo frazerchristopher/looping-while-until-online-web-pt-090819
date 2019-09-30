@@ -6,4 +6,4 @@ def using_until
 	  expect{ using_until }.to output(looping_string).to_stdou
     
 end
-
+end 
